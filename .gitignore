@@ -1,0 +1,9 @@
+/target/
+/dist/
+/artifacts/
+.DS_Store
+
+/VALIDATION.md
+.env
+.env.*
+*.log
